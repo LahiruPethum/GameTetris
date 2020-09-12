@@ -1,3 +1,3 @@
 # GameTetris
-My first Unity game
-Language -- C#
+C# unity game
+
